@@ -14,6 +14,10 @@
     <module>jobs/process/implicit_context_demo_0.1</module>
     <module>jobs/process/implicit_context_demo_0.2</module>
     <module>jobs/process/implicit_context_demo_1.0</module>
+    <module>jobs/process/Cars24/demo_job_0.1</module>
+    <module>jobs/process/Cars24/demo_m_cred_0.1</module>
+    <module>jobs/process/Cars24/demo_snowflake_0.1</module>
+    <module>jobs/process/Cars24/demo_shan_0.1</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
